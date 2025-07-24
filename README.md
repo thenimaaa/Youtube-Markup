@@ -10,9 +10,9 @@
 
 # Installation Guide
 
-To install the YouTube Language Keyword Filter extension, follow these steps:
+To install the YouTube MarkUp extension, follow these steps:
 
-1. Visit the Mozilla Add-ons website: [YouTube Playback Continuity](https://addons.mozilla.org/en-US/firefox/addon/youtube-markup/).
+1. Visit the Mozilla Add-ons website: [YouTube MarkUp](https://addons.mozilla.org/en-US/firefox/addon/youtube-markup/).
 2. Click the "Add to Firefox" button,
 3. Confirm the installation, A pop-up window will appear asking you to confirm the installation. Click "Add" to continue,
 4. Wait for the installation to complete, The extension will be installed and you will see a notification when it is complete.
